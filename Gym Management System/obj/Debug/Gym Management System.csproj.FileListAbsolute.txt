@@ -1,0 +1,50 @@
+D:\Ballu Project\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+D:\Ballu Project\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+D:\Ballu Project\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csprojAssemblyReference.cache
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Form1.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AdminPanel.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.NewAdmission.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Packages.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.TrainerEntry.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Expenses.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Attendence.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Reports.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.viewUserInfo.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ViewTrainers.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.takeFee.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.attendenceTrainer.resources
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Interop.zkemkeeper.dll
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Interop.ZKFPEngXControl.dll
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.ResolveComReference.cache
+D:\Ballu Project\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Controls.DataEmpty.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csprojAssemblyReference.cache
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Interop.zkemkeeper.dll
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Interop.ZKFPEngXControl.dll
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.ResolveComReference.cache
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AdminPanel.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Attendence.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.attendenceTrainer.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Controls.DataEmpty.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Expenses.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Form1.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.NewAdmission.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Packages.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Reports.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.takeFee.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.TrainerEntry.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ViewTrainers.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.viewUserInfo.resources
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+D:\Ballu Project\Gym Management System New\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
